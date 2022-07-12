@@ -116,7 +116,9 @@ win.bind('<Motion>', motion)
 init_game()
 game_loop()
 win.mainloop()
+```
 
+```python
 ### 改良した点
 ```python
 def click(e): # クリックでリスタート
